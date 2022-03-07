@@ -1,0 +1,84 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#form
+{
+    width:40%;
+    float:left;
+}
+#forms
+{
+    display:block;
+}
+.space
+{
+    padding-left: 30px;
+    margin-right:20px;  
+    margin-right: 50px;
+    margin-top:10px;
+    
+    border-radius: 20px;
+}
+img
+{
+    display: block;
+    margin:auto;
+}
+.but
+{
+    text-align: center;
+}
+input{
+    padding-left:10px;
+    background-color:#C4C4C4;
+    color:black;
+    border:none;
+    line-height: 3;
+    width: 95%;
+}
+button{
+    background-color: #C4C4C4;
+    padding:5px;
+    border-radius:20px;
+    width: 60%;
+    line-height: 2;
+    cursor: pointer;
+    border:none;
+}
+.gender input
+{
+    width:5% !important;
+}
+.row
+{
+    width:100%;
+}
+.colu
+{
+    width:60%;
+    float: left;
+}
+.colu img{
+    background-size: cover;
+    background-position: center;
+    width:584px;
+    height:657px;
+    inline-size:-webkit-fill-available;
+}
+#hid
+{
+    display:none;
+    float:left;
+    width:35%;
+    padding-left:20px;
+}
+#check input
+{
+    width:4%;
+}
+#login
+{
+    text-align:center;
+}
+
